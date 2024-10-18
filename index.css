@@ -1,0 +1,55 @@
+ /* Global Styles */
+body {
+    background-color: #f2f1ed;
+    font-family: 'Lato', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
+  .wrap {
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 2.5em;
+    margin-bottom: 40px;
+    text-transform: uppercase;
+  }
+  
+  h1 strong {
+    color: #ea4c4c;
+  }
+  
+  .countdown {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+  }
+  
+  .bloc-time {
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 20px;
+    width: 100px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .figure {
+    font-size: 3em;
+    font-weight: bold;
+    color: #de4848;
+    margin-bottom: 10px;
+  }
+  
+  .count-title {
+    font-size: 0.9em;
+    text-transform: uppercase;
+    color: #1a1a1a;
+  }
+  
+  
